@@ -1,0 +1,9 @@
+com\SampleProject\Pages\AddNewCustomer.class
+com\SampleProject\TestCases\AddCustomerTest.class
+com\SampleProject\Utilities\ReadConfig.class
+com\SampleProject\Utilities\XLUtils.class
+com\SampleProject\Pages\LoginPage.class
+com\SampleProject\Utilities\Reporting.class
+com\SampleProject\Pages\BaseClass.class
+com\SampleProject\TestCases\LoginDDT.class
+com\SampleProject\TestCases\LoginTest_001.class

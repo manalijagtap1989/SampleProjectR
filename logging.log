@@ -1,0 +1,30 @@
+
+  2022-04-21 11:33:23 INFO  SampleProject:13 - URL is open
+  2022-04-21 11:33:23 INFO  SampleProject:16 - Username is entered
+  2022-04-21 11:33:25 INFO  SampleProject:20 - Login is successful
+  2022-04-24 09:15:53 INFO  SampleProject:13 - URL is open
+  2022-04-24 09:15:54 INFO  SampleProject:16 - Username is entered
+  2022-04-24 09:15:58 INFO  SampleProject:20 - Login is successful
+  2022-04-24 09:31:26 INFO  SampleProject:22 - User name is provided
+  2022-04-24 09:31:27 INFO  SampleProject:24 - Passsword is provided
+  2022-04-24 09:34:09 INFO  SampleProject:22 - User name is provided
+  2022-04-24 09:34:09 INFO  SampleProject:24 - Passsword is provided
+  2022-04-24 09:34:19 INFO  SampleProject:33 - providing customer details....
+  2022-04-24 09:36:56 INFO  SampleProject:22 - User name is provided
+  2022-04-24 09:36:56 INFO  SampleProject:24 - Passsword is provided
+  2022-04-24 09:37:04 INFO  SampleProject:33 - providing customer details....
+  2022-04-24 09:37:22 INFO  SampleProject:52 - validation started....
+  2022-04-24 09:37:23 INFO  SampleProject:59 - test case passed....
+  2022-04-25 11:09:34 INFO  SampleProject:22 - User name is provided
+  2022-04-25 11:09:34 INFO  SampleProject:24 - Passsword is provided
+  2022-04-25 11:10:17 INFO  SampleProject:33 - providing customer details....
+  2022-04-25 11:36:41 INFO  SampleProject:22 - User name is provided
+  2022-04-25 11:36:41 INFO  SampleProject:24 - Passsword is provided
+  2022-04-25 11:36:54 INFO  SampleProject:33 - providing customer details....
+  2022-04-25 16:01:28 INFO  SampleProject:22 - User name is provided
+  2022-04-25 16:01:28 INFO  SampleProject:24 - Passsword is provided
+  2022-04-25 16:01:35 INFO  SampleProject:33 - providing customer details....
+  2022-04-27 09:48:12 INFO  SampleProject:22 - User name is provided
+  2022-04-27 09:48:12 INFO  SampleProject:24 - Passsword is provided
+  2022-04-27 09:48:24 INFO  SampleProject:33 - providing customer details....
+  

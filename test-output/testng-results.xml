@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="SampleProject" duration-ms="60266" started-at="2022-04-24T04:06:23Z" finished-at="2022-04-24T04:07:24Z">
+    <groups>
+    </groups>
+    <test name="SampleProject Test" duration-ms="60266" started-at="2022-04-24T04:06:23Z" finished-at="2022-04-24T04:07:24Z">
+      <class name="com.SampleProject.TestCases.AddCustomerTest">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.SampleProject.TestCases.AddCustomerTest@3abbfa04]" name="setUp" is-config="true" duration-ms="32407" started-at="2022-04-24T09:36:24Z" finished-at="2022-04-24T09:36:56Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="addNewCustomer()[pri:0, instance:com.SampleProject.TestCases.AddCustomerTest@3abbfa04]" name="addNewCustomer" duration-ms="26549" started-at="2022-04-24T09:36:56Z" finished-at="2022-04-24T09:37:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addNewCustomer -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.SampleProject.TestCases.AddCustomerTest@3abbfa04]" name="tearDown" is-config="true" duration-ms="886" started-at="2022-04-24T09:37:23Z" finished-at="2022-04-24T09:37:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.SampleProject.TestCases.AddCustomerTest -->
+    </test> <!-- SampleProject Test -->
+  </suite> <!-- SampleProject -->
+</testng-results>
